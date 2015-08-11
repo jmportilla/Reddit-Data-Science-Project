@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 10 16:30:11 PDT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-014f-19f3-2cec-00001b78f958 
+on database directory /Users/marci/ZIPFIAN REPOS/Reddit-Data-Science-Project/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@1d672476 
+Loaded from file:/Users/marci/spark-1.4.1-bin-hadoop1/lib/spark-assembly-1.4.1-hadoop1.0.4.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_65-b14-466.1-11M4716
+user.dir=/Users/marci/ZIPFIAN REPOS/Reddit-Data-Science-Project
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.10.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
